@@ -2,6 +2,9 @@ body{
      text-align: center;
      background-color: rgb(113, 158, 255);
 }
+*{
+     font-family: 'PT Sans', sans-serif;
+}
 h3{
      font-size: 25px;
 }
